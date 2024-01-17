@@ -1,0 +1,3 @@
+---------------------------------------------------------------------------------------------------
+We can use Sorting to solve the problem in O(N log N) time. The idea is simple, first sort the array so that all occurrences of every element become consecutive. Once the occurrences become consecutive, we can traverse the sorted array and print distinct elements in O(n) time. Following is the implementation of the idea. 
+---------------------------------------------------------------------------------------------------

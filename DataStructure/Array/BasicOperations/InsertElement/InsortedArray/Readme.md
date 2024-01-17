@@ -1,0 +1,4 @@
+---------------------------------------------------------------------------------------------------
+How to Insert in a Sorted Array?
+In a sorted array, a search operation is performed for the possible position of the given element by using Binary search, and then an insert operation is performed followed by shifting the elements. And in an unsorted array, the insert operation is faster as compared to the sorted array because we don’t have to care about the position at which the element is placed.
+---------------------------------------------------------------------------------------------------
