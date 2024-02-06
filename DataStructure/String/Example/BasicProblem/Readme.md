@@ -8,4 +8,6 @@ All problems:
 7. Remove Spaces
 8. Remove all duplicates from a given string
 9. Largest number with given sum
-10. Print first letter of every word in the string
+10. Print first letter of every word in the string.
+11. Check String
+12. Remaining String
