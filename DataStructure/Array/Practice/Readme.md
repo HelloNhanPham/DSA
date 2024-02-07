@@ -14,4 +14,8 @@ All problems:
 13. Replace all 0's with 5
 14. Plus One
 15. Product Pair
-16. 
+16. Minimize the sum of product
+17. Minimize the sum of product
+18. Equilibrium Point
+19. Find missing in second array
+20. Swap the array elements
