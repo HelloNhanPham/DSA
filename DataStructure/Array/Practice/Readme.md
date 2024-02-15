@@ -19,3 +19,4 @@ All problems:
 18. Equilibrium Point
 19. Find missing in second array
 20. Swap the array elements
+21. Find the smallest missing number
