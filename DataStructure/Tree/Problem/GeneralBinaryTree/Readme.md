@@ -16,3 +16,14 @@ All problems:
 15. Left View of Binary Tree
 16. Right View of Binary Tree
 17. Maximum Width of Tree
+18. Max Level Sum in Binary Tree
+19. K distance from root
+20. Maximum Depth Of Binary Tree
+21. Level order traversal Line by Line
+22. Sum of Left Leaf Nodes
+23. Sum of Leaf Nodes at Min Level
+24. Largest value in each level
+25. Depth of node
+26. Level of a Node in Binary Tree
+27. Odd even level difference
+28. Max and min element in Binary Tree
